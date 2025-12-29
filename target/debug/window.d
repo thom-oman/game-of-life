@@ -1,1 +1,0 @@
-/Users/thomoman/dev/playground/game_of_life/target/debug/window: /Users/thomoman/dev/playground/game_of_life/src/bin/window.rs /Users/thomoman/dev/playground/game_of_life/src/config.rs /Users/thomoman/dev/playground/game_of_life/src/game.rs /Users/thomoman/dev/playground/game_of_life/src/lib.rs
